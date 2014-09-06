@@ -1,6 +1,8 @@
 io-throttle
 ===========
 
+[![Build Status](https://travis-ci.org/rodrigosetti/io-throttle.svg)](https://travis-ci.org/rodrigosetti/io-throttle)
+
 Limit the number of tasks started per second. The throttle function will
 run all actions concurrently but only starting a certain number per
 second. It will wait for all tasks and return the results in a list.
