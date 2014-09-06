@@ -2,6 +2,7 @@ name          : io-throttle
 version       : 0.1.0
 synopsis      : Limit number of IO actions started per second
 homepage      : http://github.com/rodrigosetti/io-throttle
+bug-reports   : http://github.com/rodrigosetti/io-throttle/issues
 license       : MIT
 license-file  : LICENSE
 copyright     : (c) 2014, Rodrigo Setti
